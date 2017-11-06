@@ -1,0 +1,27 @@
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Client\bin\Debug\Client.exe.config
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Client\bin\Debug\Client.exe
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Client\bin\Debug\Client.pdb
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Client\obj\Debug\Client.MainForm.resources
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Client\obj\Debug\Client.exe
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Client\obj\Debug\Client.pdb
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Client\bin\Debug\Client.exe.config
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Client\bin\Debug\Client.exe
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Client\bin\Debug\Client.pdb
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Client\obj\Debug\Client.MainForm.resources
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Client\obj\Debug\Client.exe
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Client\obj\Debug\Client.pdb
+E:\Backup pc\Student\LTHTMang\TH\Final Exam\ChatApp\Client\bin\Debug\Client.exe.config
+E:\Backup pc\Student\LTHTMang\TH\Final Exam\ChatApp\Client\bin\Debug\Client.exe
+E:\Backup pc\Student\LTHTMang\TH\Final Exam\ChatApp\Client\bin\Debug\Client.pdb
+E:\Backup pc\Student\LTHTMang\TH\Final Exam\ChatApp\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Backup pc\Student\LTHTMang\TH\Final Exam\ChatApp\Client\obj\Debug\Client.MainForm.resources
+E:\Backup pc\Student\LTHTMang\TH\Final Exam\ChatApp\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Backup pc\Student\LTHTMang\TH\Final Exam\ChatApp\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Backup pc\Student\LTHTMang\TH\Final Exam\ChatApp\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Backup pc\Student\LTHTMang\TH\Final Exam\ChatApp\Client\obj\Debug\Client.exe
+E:\Backup pc\Student\LTHTMang\TH\Final Exam\ChatApp\Client\obj\Debug\Client.pdb

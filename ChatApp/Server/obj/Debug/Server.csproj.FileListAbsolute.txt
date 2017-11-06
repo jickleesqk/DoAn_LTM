@@ -1,0 +1,12 @@
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Server\bin\Debug\Server.exe.config
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Server\bin\Debug\Server.exe
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Server\bin\Debug\Server.pdb
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Server\obj\Debug\Server.exe
+D:\Documents\DaiHoc\DaiHoc_Nam4\LapTrinhMang\Chat_Program_Cloned\Server\obj\Debug\Server.pdb
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Server\bin\Debug\Server.exe.config
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Server\bin\Debug\Server.exe
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Server\bin\Debug\Server.pdb
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Server\obj\Debug\Server.exe
+E:\Backup pc\QTM\LTHTMang\Final Exam\ChatApp\Server\obj\Debug\Server.pdb
